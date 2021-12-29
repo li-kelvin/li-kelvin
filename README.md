@@ -1,4 +1,4 @@
-# Hi, I'm Kelvin Li! <img src="https://camo.githubusercontent.com/677c28f873078c7b9b53137bf32a695b9e9d8642c04c2525048fec71053d7305/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b425a32313279477a466178676b53494b572f67697068792e676966" alt="drawing" width="100"/>
+# Hi, I'm Kelvin Li!
 
 Civil Engineering Undergrad w/ minor in Computer Science @ [McMaster University](https://www.mcmaster.ca/).
 
@@ -19,8 +19,8 @@ Civil Engineering Undergrad w/ minor in Computer Science @ [McMaster University]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
