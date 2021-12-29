@@ -3,17 +3,10 @@
 Civil Engineering Undergrad w/ minor in Computer Science @ [McMaster University](https://www.mcmaster.ca/).
 
 ### Some Fun Facts About Me
-```ruby
-let kelvin = {
-  pronouns: "he" | "him",
-  code: [Python, Ruby, SQL, C/C++, Java],
-  tools: [HTML/CSS, JavaScript, R, AutoCAD, MongoDB],
-  
-  energy: "chillin",
-  swag: Math.max()
-}
-```
-[![Website](https://li-kelvin.github.io/)](li-kelvin.github.io/)
+- 🌱 Learning from those better then me 
+- 👯 I’m looking to collaborate with other individuals
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to sing and dance even though I cant sing or dance 🤣
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
