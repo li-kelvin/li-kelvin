@@ -5,7 +5,7 @@ Civil Engineering Undergrad w/ minor in Computer Science @ [McMaster University]
 ### Some Fun Facts About Me
 - 🌱 Learning from those better then me 
 - 👯 I’m looking to collaborate with other individuals
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Exploring gamification in learning!
 - ⚡ Fun fact: I love to sing and dance even though I cant sing or dance 🤣
 
 ### Languages and Tools:
